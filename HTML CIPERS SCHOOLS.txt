@@ -1,0 +1,459 @@
+CLASS-3
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+    headings & paragraphs
+        </title>
+    </head>
+    <body>
+        <p><strong>Hello Everyone!</strong></p>
+        <h1><em>I am mahesh</h1>
+        <h2> I an mahesh</h2>
+        <h3>Iam mshesh</h3>
+        <h4>Iam mahesh</h4>
+        <h5>Iam mahesh</h5>
+        <h6>Iam mahesh</h6>
+        <!--subscripts-->
+        <p>H<sub>2</sub>O</p>
+
+        <!--superscripts-->
+        <p>5<sup>6</sup></p>
+
+        <small>All Rights Reserved &trade; &copy; 2022</small>
+
+    </body>
+</html>
+
+
+
+
+ HTML CLASS-4
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+    headings & paragraphs
+        </title>
+    </head>
+    <body>
+        <p><strong>Hello Everyone!</strong></p>
+        <h1><em>Iam mahesh</em></h1>
+        <h2>mahesh</h2>
+        <h3>i am mahesh</h3>
+        <h4>Iam mahesh</h4>
+        <h5>Iam  mahesh</h5>
+        <h6>Iam mahesh</h6>
+
+        <!--subscripts-->
+        <p>H<sub>2</sub>O</p>
+
+        <!--superscripts-->
+        <p>5<sup>6</sup></p>
+
+        <small>All Rights Reserved &trade; &copy; 2022</small>
+
+    </body>
+</html>
+
+HTML CLASS-5
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            Quotes
+        </title>
+    </head>
+    <body>
+        <blockquote>
+            <q>Be yourself; everyone else is already taken.</q>
+
+           <cite>-Oscar Wilde</cite>
+         
+
+        </blockquote>
+
+    </body>
+</html>
+
+
+HTML CLASS-6
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>Emptytags in html</tittle>
+
+    </head>
+    <body>
+       <p> Allu Arjun is an Indian actor who works in Telugu films.
+        <hr>
+         <br>One of the highest paid actors in India, <code>{Arjun is also known for his extraordinary dancing skills}</code>.<br> He is a recipient of several awards, including six Filmfare Awards and five Nandi Awards.<br> Allu Arjun made his debut with Gangotri in 2003. </p>
+         <pre>
+         <p>One of the highest paid actors in India,
+             Arjun is also known for his extraordinary dancing skill</p>
+         </pre>
+    </body>
+</html>
+
+HTML Class-7
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>Debugging in html</tittle>
+    </head>
+    <body>
+        <h2>my name is mahesh.i am puesuing b tech computer science in lovely pofissional university</h2>
+        <small>All right</small>
+    </body>
+</html>
+
+HTML CLASS-8
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>Attributes in html</tittle>
+    </head>
+    <body>
+        <p class="para">discription</p>
+        <p id="one"> discription</p>
+        <p lang="en">discription</p>
+        <p dir="ltr">discription</p>
+        <p contenteditable="true"dir="ltr">Iam here</p>
+
+    </body>
+</html>
+
+
+HTML CLASS-9
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>time&date</tittle>
+    </head>
+    <body>
+        <time datetime="2022-11-30T03:45-04:45">second december</time>
+    </body>
+</html>
+
+
+HTML CLASS-10
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>weird charecters in html</tittle>
+    </head>
+    <body>
+        <h2>html entities</h2>
+        <ol>
+            <li>&gl;</li>
+            <li>&gt;</li>
+            <li>&amp;</li>
+            <li>&nbsp;</li>
+            <li>&copy;</li>
+            <li>&reg;</li>
+        </ol>
+        
+    </body>
+</html>
+
+
+HTML CLASS-11
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>lings and navigations in html</tittle>
+    </head>
+    <body>
+        <a href="lists.html">click here</a>
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F7%2F75%2FPushpa_-_The_Rise_%25282021_film%2529.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPushpa%3A_The_Rise&tbnid=0L2IVZ6VtlNxLM&vet=12ahUKEwiK9O6L_9X7AhV613MBHTpeCRIQMygAegUIARC6AQ..i&docid=ZXzIeKwJp1enWM&w=301&h=331&q=Pushpa%3A%20The%20Rise&ved=2ahUKEwiK9O6L_9X7AhV613MBHTpeCRIQMygAegUIARC6AQ">
+</html>
+
+
+HTML CLASS-12
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>lings and navigations in html</tittle>
+    </head>
+    <body>
+        <a href="lists.html">click here</a>
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2F7%2F75%2FPushpa_-_The_Rise_%25282021_film%2529.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPushpa%3A_The_Rise&tbnid=0L2IVZ6VtlNxLM&vet=12ahUKEwiK9O6L_9X7AhV613MBHTpeCRIQMygAegUIARC6AQ..i&docid=ZXzIeKwJp1enWM&w=301&h=331&q=Pushpa%3A%20The%20Rise&ved=2ahUKEwiK9O6L_9X7AhV613MBHTpeCRIQMygAegUIARC6AQ">
+</html>
+
+HTML CLadss-13
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            image mapping
+        </title>
+    </head>
+    <body>
+        <img src="https://tse1.mm.bing.net/th?id=OIP.HIkHzQ6caJhcd6uN4x56VgHaJ4&pid=Api&P=0" alt="workspace" usemap="workspace">
+
+        <map name="workspace">
+            <area shape="rect" coords="34,44,220,350" href="computer.html" alt="computer">
+            <area shape="rect" coords="" href="frame.html" alt="frame">
+            <area shape="circle" coords="" href="speaker.html" alt="speaker">
+        </map>
+
+    </body>
+</html>
+
+
+
+
+HTML CLASS-14
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>vidio</tittle>
+    </head>
+    <body>
+        <video src="C:\Users\kasan\Videos\WhatsApp Video 2022-11-30 at 23.20.25.mp4" width="50%" muted loop autoplay></video>
+        <!-- or -->
+        <vidio  width="100%" muted loop autoplay>
+            <source src="C:\Users\kasan\Videos\WhatsApp Video 2022-11-30 at 23.20.25.mp4" type="">
+
+        </vidio>
+    </body>
+</html>
+
+
+HTML CLASS-15
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>Figures and captions</tittle>
+    </head>
+    <body>
+        <img src="C:\Users\kasan\OneDrive\Documents\ns.jpg" alt="mahesh" width="50%">
+        <figcaption>This is mahesh</figcaption>
+        <marquee behavior="alternate" direction="right">Stylish star</marquee>
+    </body>
+</html>
+
+
+HTML CLASS-16
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>Figures and captions</tittle>
+    </head>
+    <body>
+        <iframe src="indexclass15.html" frameborder="20" width="100%"  height="500px" ></iframe> 
+     </body>
+</html>
+
+
+HTML CLASS-17
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>generic elements</tittle>
+    </head>
+    <body>
+        <div class="box">
+            <h1>This is mahesh</h1>
+            <p>This is<span>mahesh</span></p>
+            <p>This is mahesh</p>
+            <p>This is mahesh</p>
+        </div>
+
+    </body>
+</html>
+
+HTML CLASS-18
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE-edge">
+        <meta name="viewport" content="width-device,initial-scale=1.0">
+        <link rel="shortcut icon" href="/assets/favicon" type="image/x-icon">
+        <tittle>Figures and captions</tittle>
+    </head>
+    <body>
+        <form action="index.html" method="GET">
+            <leble for="Name">Name</leble>
+            <input type="text" name="Name" id="name" placeholder="Enter your name">
+            <br>
+            <label for="Email">Email</label>
+            <input type="Email" name="Email" placeholder="Enter your name">
+            <br>
+            <leble for="search">Search</leble>
+            <input type="search" name="search" placeholder="&#128269">
+            <br>
+            <leble for="tel">phone number</leble>
+            <input type="tel" name="phone" id="tel" placeholder="Enter your name">
+            <br>
+            <leble for="date">Date</leble>
+            <input type="date"  id="date">
+            <br>
+            <leble for="color">colors</leble>
+            <input type="color"  id="color">
+            <br>
+            <leble for="file">chose any image</leble>
+            <input type="checkbox" name="check" id="check" checked>
+            <br>
+            <leble for="select">True or false</leble>
+            <select name="select" id="select">
+                <option value="true">True</option>
+                <option value="False">false</option>
+            </select>
+            <br>
+            <br>
+            <input type="submit" value="Submit"
+            
+        </form>
+    </body>
+</html>
+
+HTML CLASS-19
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <title>
+            Tables
+        </title>
+    </head>
+    <body>
+      <table>
+        <!--table's title-->
+        <thead>Learning Tables</thead>
+        <!--table body-->
+       <tbody>
+        <!--table row-->
+        <tr>
+        <!--table's heading column-->
+        <th>Name</th>
+        <th>Section</th>
+        <th>Roll no.</th>
+        <th>Email</th>
+        </tr>
+        <tr>
+        <!--table's data column-->
+        <td>mahesh</td>
+        <td>k0c31</td>
+        <td>52</td>
+        <td>jkljk</td>
+        </tr>
+
+        <tr>
+        <td>vasu</td>
+        <td>koc31</td>
+        <td>45</td>
+        <td>fghjkl</td>
+        </tr>
+        </tbody>
+      </table>
+    </body>
+</html>
+
+
+HTML CLASS-20
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <meta name="viewport" content="width-device-width, initial-scale=1.0">
+        <title>
+            canvas
+        </title>
+    </head>
+    <body>
+      <canvas id="canvas" width="300px" height="300px"></canvas>
+    </body>
+</html>
+
+
+
+HTML CLASS-21
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE-edge">
+        <meta name="viewport" content="width-device-width, initial-scale=1.0">
+        <title>
+            canvas
+        </title>
+    </head>
+    <body>
+      <canvas id="canvas" width="300px" height="300px"></canvas>
+    </body>
+</html>
+
